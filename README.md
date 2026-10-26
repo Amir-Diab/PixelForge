@@ -169,7 +169,7 @@ The results below are taken from the supplied BenchmarkDotNet reports. Each tabl
 
 ### Pixel-operation microbenchmarks
 
-Mean execution time per operation. The speedup columns compare each implementation with the sequential scalar implementation for that operation and category. `Parallel-SIMD allocations` reports managed bytes allocated per operation by that variant; `—` means BenchmarkDotNet reported no per-operation allocation for that method.
+Mean execution time per operation. The speedup columns compare each implementation with the sequential scalar implementation for that operation and category. `Parallel-SIMD allocations` reports managed bytes allocated per operation by that variant.
 
 | Category | Operation | Sequential | SIMD | Parallel-SIMD | SIMD speedup | Parallel-SIMD speedup | Parallel-SIMD allocated/op |
 |---|---|---:|---:|---:|---:|---:|---:|
