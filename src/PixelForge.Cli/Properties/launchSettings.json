@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PixelForge.Cli": {
+      "commandName": "Project",
+      "workingDirectory": "$(SolutionDir)"
+    }
+  }
+}

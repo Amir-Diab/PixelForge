@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/benchmarks/">
+    <Project Path="benchmarks/PixelForge.Benchmarks/PixelForge.Benchmarks.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/PixelForge.Application/PixelForge.Application.csproj" />
+    <Project Path="src/PixelForge.Cli/PixelForge.Cli.csproj" />
+    <Project Path="src/PixelForge.Core/PixelForge.Core.csproj" />
+    <Project Path="src/PixelForge.Infrastructure/PixelForge.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/PixelForge.Tests/PixelForge.Tests.csproj" />
+  </Folder>
+</Solution>
